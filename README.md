@@ -1,1 +1,1 @@
-prova di tensorboard cn pytorch 
+prova di tensorboard con pytorch per quora, siamese lstm
